@@ -1,0 +1,92 @@
+/* Estilos globales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo del body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Encabezado del CV con imagen */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    width: 25px;
+}
+
+.text-header {
+    flex: 1;
+}
+
+.img-container {
+    /* Tamaño de la imagen */
+    width: 150px;
+    height: 150px;
+    border: 1mm solid white; /* Marco de 1mm */
+    overflow: hidden;
+    border-radius: 50%; /* Redondeado opcional para la imagen */
+}
+
+.img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Sección de contacto */
+#contacto {
+    margin-bottom: 20px;
+}
+
+#contacto ul {
+    list-style: none;
+    padding: 10px;
+}
+
+#contacto ul li {
+    margin-bottom: 8px;
+}
+
+/* Sección de experiencia laboral */
+#experiencia ul,
+#habilidades ul,
+#idiomas ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+#experiencia, #habilidades, #formacion, #idiomas {
+    margin-bottom: 20px;
+}
+
+/* Títulos de las secciones */
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
