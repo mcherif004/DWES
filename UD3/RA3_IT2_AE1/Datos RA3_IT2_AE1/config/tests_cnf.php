@@ -5,37 +5,37 @@ array("idTest"=>1,
 "Categoria"=>"Categoría Preguntas oficiales de la DGT",
 "Corrector"=>array("a","b","c", "c", "c", "a", "c", "a", "c", "a"),
 "Preguntas"=>array(
-                    array("idPregunta"=>1,
-                          "Pregunta"=>"1. ¿Qué alumbrado llevará encendido una motocicleta durante el día?",
-                          "respuestas"=>array("a) El de corto alcance o cruce.","b) El de posición o el de corto alcance.","c) Ninguno.")
+                  array("idPregunta"=>1,
+                        "Pregunta"=>"1. ¿Qué alumbrado llevará encendido una motocicleta durante el día?",
+                        "respuestas"=>array("a) El de corto alcance o cruce.","b) El de posición o el de corto alcance.","c) Ninguno.")
 						),
-                    array("idPregunta"=>2,
-                          "Pregunta"=>"2. ¿Puede realizar un cambio de sentido en un lugar donde esté prohibido adelantar?",
-                          "respuestas"=>array("a) Sí, excepto entre la puesta y la salida de sol, porque disminuye la visibilidad.","b) No, salvo que el cambio de sentido esté expresamente autorizado.","c) Sí, cuando la circulación en sentido contrario lo permita.")
+                  array("idPregunta"=>2,
+                        "Pregunta"=>"2. ¿Puede realizar un cambio de sentido en un lugar donde esté prohibido adelantar?",
+                        "respuestas"=>array("a) Sí, excepto entre la puesta y la salida de sol, porque disminuye la visibilidad.","b) No, salvo que el cambio de sentido esté expresamente autorizado.","c) Sí, cuando la circulación en sentido contrario lo permita.")
 						),
-                    array("idPregunta"=>3,
-                          "Pregunta"=>"3. En una autopista conduciendo un camión de 3.000 Kg. de M.M.A., ¿qué distancia es obligatorio dejar con el vehículo que va delante?",
-                          "respuestas"=>array("a) 100 metros.","b) 50 metros.","c) La distancia de seguridad.")
+                  array("idPregunta"=>3,
+                        "Pregunta"=>"3. En una autopista conduciendo un camión de 3.000 Kg. de M.M.A., ¿qué distancia es obligatorio dejar con el vehículo que va delante?",
+                        "respuestas"=>array("a) 100 metros.","b) 50 metros.","c) La distancia de seguridad.")
 						),
-                    array("idPregunta"=>4,
-                          "Pregunta"=>"4. ¿Dónde está permitido que viaje un niño que no alcance los 135 centímetros de estatura?",
-                          "respuestas"=>array("a) En cualquiera de los asientos traseros utilizando el cinturón para adultos.","b) En un asiento delantero o trasero, utilizando siempre el cinturón de seguridad para adultos.","c) En un asiento delantero o trasero utilizando siempre un dispositivo de retención homologado en función de su talla y peso.")
+                  array("idPregunta"=>4,
+                        "Pregunta"=>"4. ¿Dónde está permitido que viaje un niño que no alcance los 135 centímetros de estatura?",
+                        "respuestas"=>array("a) En cualquiera de los asientos traseros utilizando el cinturón para adultos.","b) En un asiento delantero o trasero, utilizando siempre el cinturón de seguridad para adultos.","c) En un asiento delantero o trasero utilizando siempre un dispositivo de retención homologado en función de su talla y peso.")
 						),
-                    array("idPregunta"=>5,
-                          "Pregunta"=>"5. Con esta señalización, ¿a qué velocidad debe circular?",
-                          "respuestas"=>array("a) Obligatoriamente a 30 km/h.","b) Al menos a 30 km/h.","c) A 30 km/h, como recomendación, durante el tramo que subsista el peligro.")
+                  array("idPregunta"=>5,
+                        "Pregunta"=>"5. Con esta señalización, ¿a qué velocidad debe circular?",
+                        "respuestas"=>array("a) Obligatoriamente a 30 km/h.","b) Al menos a 30 km/h.","c) A 30 km/h, como recomendación, durante el tramo que subsista el peligro.")
 						),
-                    array("idPregunta"=>6,
-                          "Pregunta"=>"6. Una línea blanca continua sobre la calzada, sensiblemente más ancha que en el caso general...",
-                          "respuestas"=>array("a) indica la existencia de un carril especial.","b) sirve para delimitar, únicamente, los carriles bus.","c) indica el borde de la calzada.")
+                  array("idPregunta"=>6,
+                        "Pregunta"=>"6. Una línea blanca continua sobre la calzada, sensiblemente más ancha que en el caso general...",
+                        "respuestas"=>array("a) indica la existencia de un carril especial.","b) sirve para delimitar, únicamente, los carriles bus.","c) indica el borde de la calzada.")
 						),
-                    array("idPregunta"=>7,
-                          "Pregunta"=>"7. El seguro obligatorio, ¿cubre los daños en la persona del conductor del vehículo asegurado?",
-                          "respuestas"=>array("a) Sí, en todo caso.","b) Sí, salvo cuando el conductor es el tomador del seguro.","c) No.")
+                  array("idPregunta"=>7,
+                        "Pregunta"=>"7. El seguro obligatorio, ¿cubre los daños en la persona del conductor del vehículo asegurado?",
+                        "respuestas"=>array("a) Sí, en todo caso.","b) Sí, salvo cuando el conductor es el tomador del seguro.","c) No.")
 						),
-                    array("idPregunta"=>8,
-                          "Pregunta"=>"8. La mayor parte de las víctimas mortales por accidente de circulación se producen en...",
-                          "respuestas"=>array("a) vías interurbanas.","b) vías urbanas.","c) travesías.")
+                  array("idPregunta"=>8,
+                        "Pregunta"=>"8. La mayor parte de las víctimas mortales por accidente de circulación se producen en...",
+                        "respuestas"=>array("a) vías interurbanas.","b) vías urbanas.","c) travesías.")
 						),
                     array("idPregunta"=>9,
                           "Pregunta"=>"9. ¿Cuántos espejos retrovisores tienen que llevar instalados las motocicletas?",
